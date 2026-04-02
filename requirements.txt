@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+joblib
+pydantic
+python-dotenv
+axios
+# For local dev we used venv, but Azure needs these in root requirements.txt
